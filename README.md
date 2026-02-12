@@ -46,13 +46,13 @@ Desarrollador **Full-Stack & Mobile** con enfoque en **arquitectura limpia**, **
 ### Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diego2005z&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diego2005z&show_icons=true&theme=tokyonight" width="48%" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=Diego2005z&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Diego2005z&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diego2005z&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=70a5fd&area=true&area_color=bf91f3" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diego2005z&theme=tokyo-night" width="96%" />
 </p>
 
 ---
@@ -68,24 +68,10 @@ Desarrollador **Full-Stack & Mobile** con enfoque en **arquitectura limpia**, **
 ### Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diego2005z/Diego2005z/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diego2005z/Diego2005z/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Diego2005z/Diego2005z/output/github-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Diego2005z/Diego2005z/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
----
-
-### Proyectos destacados
-
-| Proyecto | Qué demuestra | Link |
-|----------|---------------|------|
-| <!-- TODO: nombre --> | <!-- TODO: descripción breve --> | <!-- TODO: url --> |
-| <!-- TODO: nombre --> | <!-- TODO: descripción breve --> | <!-- TODO: url --> |
-| <!-- TODO: nombre --> | <!-- TODO: descripción breve --> | <!-- TODO: url --> |
-
-> Completa la tabla con tus mejores repositorios.
+<p align="center"><sub>Si no ves la animación aún, se genera automáticamente después de ejecutar el workflow.</sub></p>
 
 ---
 
