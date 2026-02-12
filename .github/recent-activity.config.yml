@@ -1,8 +1,0 @@
-settings:
-  max_lines: 10
-  readme_file: "./README.md"
-  commit_username: "github-actions[bot]"
-  commit_email: "github-actions[bot]@users.noreply.github.com"
-  commit_msg: "chore: update recent activity"
-  disabled_events: []
-  url_text: "{REPO}"
