@@ -67,16 +67,6 @@ Estudiante de **Ingeniería de Software** en la **UPC** (8vo ciclo · tercio sup
 
 ---
 
-### Experiencia
-
-**Influyo!** — Desarrollador Frontend & Mobile · *Jul 2025 – Actualidad*
-> Startup que conecta emprendedores e influencers. Desarrollo interfaces responsivas y accesibles (UI/UX), aplico Scrum con dailys y sprints, y colaboro con diseño y QA usando Git/GitHub y Figma.
-
-**DISARJO** — Desarrollador Mobile · *Jul – Ago 2025*
-> App móvil para viajeros y estacionamientos. Desarrollo con Flutter/Dart, prototipado en Figma y coordinación con equipo senior en entorno remoto.
-
----
-
 ### Certificaciones
 
 <p align="center">
@@ -91,9 +81,7 @@ Estudiante de **Ingeniería de Software** en la **UPC** (8vo ciclo · tercio sup
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diego2005z&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=Diego2005z&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Diego2005z&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ---
